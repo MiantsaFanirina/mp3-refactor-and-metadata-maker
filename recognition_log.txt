@@ -1,0 +1,290 @@
+2025-08-12 02:59:22,303 - ERROR - AcoustID error for C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\test\Adele - Send My Love (To Your New Lover)-converted.mp3: status: error
+2025-08-12 02:59:22,303 - INFO - Failed to identify: Adele - Send My Love (To Your New Lover)-converted.mp3
+2025-08-12 02:59:23,114 - ERROR - AcoustID error for C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\test\Alec Benjamin - Let Me Down Slowly (feat. Alessia Cara) [Acoustic Video]-converted.mp3: status: error
+2025-08-12 02:59:23,115 - INFO - Failed to identify: Alec Benjamin - Let Me Down Slowly (feat. Alessia Cara) [Acoustic Video]-converted.mp3
+2025-08-12 02:59:23,843 - ERROR - AcoustID error for C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\test\Alessia Cara - Find My Boy (Live Acoustic)-converted.mp3: status: error
+2025-08-12 02:59:23,844 - INFO - Failed to identify: Alessia Cara - Find My Boy (Live Acoustic)-converted.mp3
+2025-08-12 02:59:24,668 - ERROR - AcoustID error for C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\test\Alessia Cara - Four Pink Walls (Lyrics)-converted.mp3: status: error
+2025-08-12 02:59:24,668 - INFO - Failed to identify: Alessia Cara - Four Pink Walls (Lyrics)-converted.mp3
+2025-08-12 02:59:25,448 - ERROR - AcoustID error for C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\test\Alessia Cara - Like You (Live Off The Floor)-converted.mp3: status: error
+2025-08-12 02:59:25,448 - INFO - Failed to identify: Alessia Cara - Like You (Live Off The Floor)-converted.mp3
+2025-08-12 02:59:26,181 - ERROR - AcoustID error for C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\test\Alessia Cara - Outlaws [MUSIC VIDEO]-converted.mp3: status: error
+2025-08-12 02:59:26,181 - INFO - Failed to identify: Alessia Cara - Outlaws [MUSIC VIDEO]-converted.mp3
+2025-08-12 02:59:26,927 - ERROR - AcoustID error for C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\test\Alessia Cara - Ready (Lyric Video)-converted.mp3: status: error
+2025-08-12 02:59:26,927 - INFO - Failed to identify: Alessia Cara - Ready (Lyric Video)-converted.mp3
+2025-08-12 02:59:27,752 - ERROR - AcoustID error for C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\test\Alessia Cara - Seventeen-converted.mp3: status: error
+2025-08-12 02:59:27,752 - INFO - Failed to identify: Alessia Cara - Seventeen-converted.mp3
+2025-08-12 02:59:28,479 - ERROR - AcoustID error for C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\test\Alessia Cara - Sweet Dream-converted.mp3: status: error
+2025-08-12 02:59:28,479 - INFO - Failed to identify: Alessia Cara - Sweet Dream-converted.mp3
+2025-08-12 02:59:29,193 - ERROR - AcoustID error for C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\test\Alessia Cara - _Destiny's Child Medley_ [LIVE @ SiriusXM]-converted.mp3: status: error
+2025-08-12 02:59:29,194 - INFO - Failed to identify: Alessia Cara - _Destiny's Child Medley_ [LIVE @ SiriusXM]-converted.mp3
+2025-08-12 02:59:29,953 - ERROR - AcoustID error for C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\test\Alessia_Cara_-_Growing_Pains_(Official_Video)(1080p)-converted.mp3: status: error
+2025-08-12 02:59:29,954 - INFO - Failed to identify: Alessia_Cara_-_Growing_Pains_(Official_Video)(1080p)-converted.mp3
+2025-08-12 02:59:30,715 - ERROR - AcoustID error for C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\test\Alessia_Cara_-_Not_Today(1080p)-converted.mp3: status: error
+2025-08-12 02:59:30,715 - INFO - Failed to identify: Alessia_Cara_-_Not_Today(1080p)-converted.mp3
+2025-08-12 02:59:31,534 - ERROR - AcoustID error for C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\test\Alessia_Cara_-_Out_Of_Love(1080p)-converted.mp3: status: error
+2025-08-12 02:59:31,534 - INFO - Failed to identify: Alessia_Cara_-_Out_Of_Love(1080p)-converted.mp3
+2025-08-12 02:59:32,284 - ERROR - AcoustID error for C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\test\Alessia_Cara_-_Scars_To_Your_Beautiful_(Lyrics)(360p)-converted.mp3: status: error
+2025-08-12 02:59:32,285 - INFO - Failed to identify: Alessia_Cara_-_Scars_To_Your_Beautiful_(Lyrics)(360p)-converted.mp3
+2025-08-12 02:59:33,064 - ERROR - AcoustID error for C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\test\Alessia_Cara_-_Stone_ft._Sebastian_Kole_(Official_Audio)(1080p)-converted.mp3: status: error
+2025-08-12 02:59:33,064 - INFO - Failed to identify: Alessia_Cara_-_Stone_ft._Sebastian_Kole_(Official_Audio)(1080p)-converted.mp3
+2025-08-12 02:59:33,815 - ERROR - AcoustID error for C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\test\Alessia_Cara_-_Wild_Things_(Official_Video)(1080p)-converted.mp3: status: error
+2025-08-12 02:59:33,815 - INFO - Failed to identify: Alessia_Cara_-_Wild_Things_(Official_Video)(1080p)-converted.mp3
+2025-08-12 02:59:34,591 - ERROR - AcoustID error for C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\test\Ali Gatie - It's You (Official Lyrics Video)-converted.mp3: status: error
+2025-08-12 02:59:34,592 - INFO - Failed to identify: Ali Gatie - It's You (Official Lyrics Video)-converted.mp3
+2025-08-12 02:59:35,328 - ERROR - AcoustID error for C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\test\\u300ccoffee - beabadoobee (lyrics)\u2615\ufe0f\u300d-converted.mp3: status: error
+2025-08-12 02:59:35,328 - INFO - Failed to identify: \u300ccoffee - beabadoobee (lyrics)\u2615\ufe0f\u300d-converted.mp3
+2025-08-12 03:11:46,684 - INFO - Success: -Came\u0301lia Jordana- Facile(lyrics)-converted.mp3 recognized as Camélia Jordana - Facile
+2025-08-12 03:11:56,111 - INFO - Success: -Damso-Ipse\u0301ite\u0301(lyrics)-converted.mp3 recognized as Damso - Ipséité
+2025-08-12 03:12:10,254 - INFO - Success: A Thousand Years - Christina Perri Lyrics-converted.mp3 recognized as Christina Perri - A Thousand Years
+2025-08-12 03:12:25,093 - INFO - Success: Adele - Easy on me-converted.mp3 recognized as Siddharth - Sunta Nahi
+2025-08-12 03:12:35,249 - INFO - Success: Adele - Send My Love (To Your New Lover)-converted.mp3 recognized as Adele - Send My Love (To Your New Lover)
+2025-08-12 03:12:49,541 - INFO - Success: Adele - When we were young-converted.mp3 recognized as Adele - When We Were Young
+2025-08-12 03:13:02,777 - INFO - Success: Akon & Michael Jakson - Hold my hand-converted.mp3 recognized as Michael Jackson - Hold My Hand
+2025-08-12 03:13:17,496 - INFO - Success: Akon - Lonely-converted.mp3 recognized as Akon - Lonely (UK Radio Edit)
+2025-08-12 03:13:22,357 - ERROR - API request failed for C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\test\Alec Benjamin - Let Me Down Slowly (feat. Alessia Cara) [Acoustic Video]-converted.mp3: HTTPSConnectionPool(host='api.audd.io', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:2427)')))
+2025-08-12 03:13:22,358 - INFO - Failed to recognize: Alec Benjamin - Let Me Down Slowly (feat. Alessia Cara) [Acoustic Video]-converted.mp3
+2025-08-12 03:13:32,560 - INFO - Success: Alessia Cara & Alec Benjamin - Let me down slowly-converted.mp3 recognized as Alec Benjamin - Let Me Down Slowly (feat. Alessia Cara)
+2025-08-12 03:13:40,485 - INFO - Failed to recognize: Alessia Cara - Find My Boy (Live Acoustic)-converted.mp3
+2025-08-12 03:13:49,868 - INFO - Success: Alessia Cara - Four Pink Walls (Lyrics)-converted.mp3 recognized as Alessia Cara - Four Pink Walls
+2025-08-12 03:14:01,565 - INFO - Success: Alessia Cara - I choose-converted.mp3 recognized as Alessia Cara - I Choose
+2025-08-12 03:14:04,670 - INFO - Skipped existing file: C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\result\Alec Benjamin\Alec Benjamin - Let Me Down Slowly (feat. Alessia Cara).mp3
+2025-08-12 03:14:11,174 - INFO - Success: Alessia Cara - Like You (Live Off The Floor)-converted.mp3 recognized as Alessia Cara - Like You
+2025-08-12 03:14:20,598 - INFO - Success: Alessia Cara - Outlaws [MUSIC VIDEO]-converted.mp3 recognized as Alessia Cara - Outlaws
+2025-08-12 03:14:28,356 - INFO - Success: Alessia Cara - Ready (Lyric Video)-converted.mp3 recognized as Alessia Cara - Ready
+2025-08-12 03:14:38,525 - INFO - Success: Alessia Cara - Seventeen-converted.mp3 recognized as Alessia Cara - Seventeen
+2025-08-12 03:14:47,266 - INFO - Success: Alessia Cara - Sweet Dream-converted.mp3 recognized as Alessia Cara - Sweet Dream
+2025-08-12 03:14:56,933 - INFO - Success: Alessia Cara - You Let Me Down-converted.mp3 recognized as Alessia Cara - You Let Me Down
+2025-08-12 03:15:06,558 - INFO - Failed to recognize: Alessia Cara - _Destiny's Child Medley_ [LIVE @ SiriusXM]-converted.mp3
+2025-08-12 03:15:14,975 - INFO - Success: Alessia_Cara_-_Growing_Pains_(Official_Video)(1080p)-converted.mp3 recognized as Alessia Cara - Growing Pains
+2025-08-12 03:15:22,178 - INFO - Success: Alessia_Cara_-_Not_Today(1080p)-converted.mp3 recognized as Alessia Cara - Not Today
+2025-08-12 03:15:32,798 - INFO - Success: Alessia_Cara_-_Out_Of_Love(1080p)-converted.mp3 recognized as Alessia Cara - Out Of Love
+2025-08-12 03:15:43,090 - INFO - Success: Alessia_Cara_-_Scars_To_Your_Beautiful_(Lyrics)(360p)-converted.mp3 recognized as Alessia Cara - Scars To Your Beautiful
+2025-08-12 03:15:52,666 - INFO - Success: Alessia_Cara_-_Stone_ft._Sebastian_Kole_(Official_Audio)(1080p)-converted.mp3 recognized as Alessia Cara - Stone
+2025-08-12 03:16:02,409 - INFO - Failed to recognize: Alessia_Cara_-_Wild_Things_(Official_Video)(1080p)-converted.mp3
+2025-08-12 03:16:11,507 - INFO - Success: Ali Gatie - It's You (Official Lyrics Video)-converted.mp3 recognized as Ali Gatie - It's You
+2025-08-12 03:16:22,733 - INFO - Success: Ali Gatie - What If I Told You That I Love You [Of-converted.mp3 recognized as Ali Gatie - What If I Told You That I Love You
+2025-08-12 03:16:33,914 - INFO - Success: Alicia keys - Girl on fire-converted.mp3 recognized as Alicia Keys - Girl On Fire
+2025-08-12 03:16:46,003 - INFO - Success: Alicia Keys - If I Ain't Got You (Rap by Verum Cov-converted.mp3 recognized as Instrumental Hymns and Worship - Battle Belongs
+2025-08-12 03:16:56,288 - INFO - Skipped existing file: C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\result\Ali Gatie\Ali Gatie - It's You.mp3
+2025-08-12 03:17:11,346 - INFO - Failed to recognize: All of me - John Legend & Lindsey stirling-converted.mp3
+2025-08-12 03:17:14,553 - INFO - Success: Always Daniel Caesar lyrics  short lyrics  WhatsAp-converted.mp3 recognized as Daniel Caesar - Always
+2025-08-12 03:17:21,856 - INFO - Success: andrew - lizzy mcalpine (lyrics)-converted.mp3 recognized as Lizzy McAlpine - Over-the-Ocean Call (Andrew)
+2025-08-12 03:17:32,505 - INFO - Success: Andriel - Toriny ( Official Music Video )-converted.mp3 recognized as Andriel - Toriny
+2025-08-12 03:17:43,608 - INFO - Success: Andy Grammer - _Don't Give Up On Me_ [Official Video from the Five Feet Apart Film]-converted.mp3 recognized as Andy Grammer - Don't Give Up On Me
+2025-08-12 03:18:18,996 - INFO - Failed to recognize: Anne Marie - Mix songs-converted.mp3
+2025-08-12 03:18:29,032 - INFO - Success: Anne-Marie - 2002 [Official Video]-converted.mp3 recognized as Anne-Marie - 2002
+2025-08-12 03:18:39,821 - INFO - Success: Anne-Marie - James Arthur - Rewrite The Stars -from The Greatest Showman Reimagined--converted.mp3 recognized as James Arthur & Anne-Marie - Rewrite The Stars
+2025-08-12 03:18:44,759 - INFO - Failed to recognize: Antsa & Mendrika )-converted.mp3
+2025-08-12 03:18:53,844 - INFO - Success: Antsa & Mendrika - Arrive hariva [clip officiel]-converted.mp3 recognized as Nature Sounds - Waves at the Beach
+2025-08-12 03:19:05,318 - INFO - Success: Antsa & Mendrika - Hashtag feat Sam's-converted.mp3 recognized as Antsa & Mendrika - Hashtag (feat. Sam's)
+2025-08-12 03:19:14,633 - INFO - Success: Antsa & Mendrika - J'avais 6 ans (Paroles Lyrics Vidéo)-converted.mp3 recognized as Antsa & Mendrika - J'avais 6 ans
+2025-08-12 03:19:21,677 - INFO - Failed to recognize: Antsa & Mendrika - Mimoza-converted.mp3
+2025-08-12 03:19:29,269 - INFO - Failed to recognize: Antsa & Mendrika - Plus tard-converted.mp3
+2025-08-12 03:19:38,312 - INFO - Success: Antsa & Mendrika – Je suis comme toi [Clip officiel]-converted.mp3 recognized as Antsa & Mendrika - Je suis comme toi
+2025-08-12 03:19:43,949 - INFO - Failed to recognize: Antsa et Mendrika - Memories-converted.mp3
+2025-08-12 03:19:49,018 - INFO - Failed to recognize: Antsa et Mendrika - Ngôma ( shyn $ denise)-converted.mp3
+2025-08-12 03:20:00,159 - INFO - Success: Ariana Grande - ONE LAST TIME (Lyrics)(240P) (1)-converted.mp3 recognized as Ariana Grande - One Last Time (Attends-Moi)
+2025-08-12 03:20:09,464 - INFO - Success: Asake & Olamide - Amapiano (Official Video)-converted.mp3 recognized as Asake/Olamide - Amapiano
+2025-08-12 03:20:17,880 - INFO - Success: Asake - 230 (Official Video)-converted.mp3 recognized as Asake - 2:30
+2025-08-12 03:20:28,367 - INFO - Success: Asake - Sungba (Remix) (Official Video) (feat Burn-converted.mp3 recognized as Asake - Sungba (Remix) feat. Burna Boy
+2025-08-12 03:20:38,752 - INFO - Success: Astrid_S_-_It´s_Ok_If_You_Forget_Me_(Official_Lyric_Video)(1080p)-converted.mp3 recognized as Astrid S - It's OK If You Forget Me
+2025-08-12 03:20:47,974 - INFO - Success: Ava Max - Kings & Queens [Official Music Video]-converted.mp3 recognized as Ava Max - Kings & Queens, Pt. 2 (feat. Lauv & Saweetie)
+2025-08-12 03:21:02,205 - INFO - Skipped existing file: C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\result\Ava Max\Ava Max - Kings & Queens, Pt. 2 (feat. Lauv & Saweetie).mp3
+2025-08-12 03:21:13,322 - INFO - Success: Ava Max - Who's Laughing Now [Official Music Video]-converted.mp3 recognized as Ava Max - Who's Laughing Now
+2025-08-12 03:21:30,843 - INFO - Skipped existing file: C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\result\Ava Max\Ava Max - Who's Laughing Now.mp3
+2025-08-12 03:21:39,060 - INFO - Skipped existing file: C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\result\Ava Max\Ava Max - Kings & Queens, Pt. 2 (feat. Lauv & Saweetie).mp3
+2025-08-12 03:21:50,940 - INFO - Success: Ava_Max_-_Come_Home_(Music_Video)(240p)-converted.mp3 recognized as Ayesha Erotica - Come Home
+2025-08-12 03:22:01,631 - INFO - Failed to recognize: Ave maria - Beyonce-converted.mp3
+2025-08-12 03:22:11,179 - INFO - Success: Ayam - 2 a m-converted.mp3 recognized as AYAM - 2 AM
+2025-08-12 03:22:23,536 - INFO - Failed to recognize: Ayam - Diary-converted.mp3
+2025-08-12 03:22:32,957 - INFO - Failed to recognize: Ayam - Mafy fa vitako-converted.mp3
+2025-08-12 03:22:45,311 - INFO - Success: Ayam - My Soulmate-converted.mp3 recognized as Steven Michael Gooding Charlie H Bisharat Jennifer Anne wood - Naming The Future
+2025-08-12 03:22:54,668 - INFO - Failed to recognize: Ayam_-_Tomorrow_koa_Day_(Clip_Officiel)(360p)-converted.mp3
+2025-08-12 03:23:06,109 - INFO - Success: Ayra Starr - Rush (Official Music Video)-converted.mp3 recognized as Ayra Starr - Rush
+2025-08-12 03:23:22,339 - INFO - Success: Ayra Starr - Sability (Official Music Video)-converted.mp3 recognized as Daciva - Sability
+2025-08-12 03:23:34,110 - INFO - Success: Backstreet Boys - I Want It That Way (Official HD-converted.mp3 recognized as Backstreet Boys - I Want It That Way
+2025-08-12 03:23:48,600 - INFO - Success: Bad liar - song cover-converted.mp3 recognized as Jada Facer - Bad Liar
+2025-08-12 03:24:03,558 - INFO - Success: Basta Lion -  Tsy Mavoa (Clip Officiel)-converted.mp3 recognized as Basta Lion - Tsy Mavoa
+2025-08-12 03:24:11,396 - INFO - Success: Basta Lion - Colombian (Vide\u0301o Officielle)-converted.mp3 recognized as Basta Lion - Colombian
+2025-08-12 03:24:21,516 - INFO - Success: Basta Lion - Negatif (Album MADAJAM)-converted.mp3 recognized as Basta Lion - Negatif
+2025-08-12 03:24:34,608 - INFO - Success: BASTA LION - WERAWERA (Clip Officiel) - NB PRODUCT-converted.mp3 recognized as Basta Lion - Werawera
+2025-08-12 03:24:41,128 - INFO - Skipped existing file: C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\result\Basta Lion\Basta Lion - Colombian.mp3
+2025-08-12 03:24:50,257 - INFO - Success: Bazzi - IFLY [Official Music Video]-converted.mp3 recognized as Bazzi - I.F.L.Y.
+2025-08-12 03:25:04,525 - INFO - Success: Bee Gees - How Deep Is Your Love (Official Video)-converted.mp3 recognized as Sped Up 204 - How Deep Is Your Love
+2025-08-12 03:25:19,643 - INFO - Success: Bee Gees - Stayin' Alive (Official Video)-converted.mp3 recognized as Bee Gees - Stayin' Alive
+2025-08-12 03:25:40,957 - INFO - Success: Beethoven - Moonlight Sonata 1st Movement-converted.mp3 recognized as Emil Gilels - Beethoven: Piano Sonata No.14 In C Sharp Minor, Op.27 No.2 -"Moonlight" - 1. Adagio sostenuto
+2025-08-12 03:25:45,742 - INFO - Success: belle-converted.mp3 recognized as Belle - Swarms of Song
+2025-08-12 03:25:55,839 - INFO - Success: Ben E King - Stand By Me (Lyrics)-converted.mp3 recognized as Ben E. King - Stand by Me (Remastered)
+2025-08-12 03:26:08,347 - INFO - Success: BENEE - Supalonely ft Gus Dapperton-converted.mp3 recognized as BENEE - Supalonely feat. Gus Dapperton
+2025-08-12 03:26:21,479 - INFO - Success: Benson Boone & Phillipine Lavrey - In the stars (2)-converted.mp3 recognized as Benson Boone - In The Stars
+2025-08-12 03:26:31,955 - INFO - Success: Benson Boone - Beautiful Things (Official Music Vi-converted.mp3 recognized as Blindfolded - What Seeps Through Threads
+2025-08-12 03:26:42,435 - INFO - Failed to recognize: Benson Boone - Before you                                                                     -converted.mp3
+2025-08-12 03:26:54,473 - INFO - Success: Benson Boone - Before You -Official Lyric Video--converted.mp3 recognized as Benson Boone - Before You
+2025-08-12 03:27:05,347 - INFO - Skipped existing file: C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\result\Benson Boone\Benson Boone - Before You.mp3
+2025-08-12 03:27:17,557 - INFO - Skipped existing file: C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\result\Benson Boone\Benson Boone - In The Stars.mp3
+2025-08-12 03:27:27,243 - INFO - Success: Benson Boone - Let Me Go (Official Lyric Video)-converted.mp3 recognized as Benson Boone - Let Me Go
+2025-08-12 03:27:38,690 - INFO - Success: Benson Boone - Sugar Sweet (Official Music Video)-converted.mp3 recognized as Miss Ambient - Relaxation: Day at the Beach Soundscape
+2025-08-12 03:27:48,420 - INFO - Success: Benson-Boone-Beautiful-Things-Lyrics-_1-converted.mp3 recognized as Benson Boone - Beautiful Things
+2025-08-12 03:27:59,864 - INFO - Success: Best Part (feat HER-converted.mp3 recognized as H.E.R. - Best Part
+2025-08-12 03:28:17,094 - INFO - Success: Betia & Quator Squad - Ho ahy-converted.mp3 recognized as Betia - Ho Ahy - Cover
+2025-08-12 03:28:32,669 - INFO - Success: Betia & Quator Squad - Tsy ho ahy-converted.mp3 recognized as Quatuor Squad,Betia - Tsy Ho Ahy
+2025-08-12 03:28:39,929 - INFO - Success: Beyonce\u0301 - BLACKBIIRD (Official Lyric Video)-converted.mp3 recognized as Beyoncé - BLACKBIIRD
+2025-08-12 03:28:50,143 - INFO - Success: Billie Eilish - lovely (Lyrics) ft. Khalid-converted.mp3 recognized as Billie Eilish - lovely
+2025-08-12 03:29:00,021 - INFO - Success: blackbear - ghost town (Lyric Video) ft Sasha Alex-converted.mp3 recognized as blackbear - ghost town
+2025-08-12 03:29:12,043 - INFO - Success: Blessed-converted.mp3 recognized as Daniel Caesar - Blessed
+2025-08-12 03:29:24,094 - INFO - Failed to recognize: Blood Sweat & Tears ft. Sheryl Lee Ralph ¦ Official Music Video - League of Legends (128kbit_AAC)-converted.mp3
+2025-08-12 03:29:34,563 - INFO - Failed to recognize: Blood Sweat & Tears ft. Sheryl Lee Ralph ¦ Official Music Video - League of Legends (2160p_24fps_AV1-128kbit_AAC)-converted.mp3
+2025-08-12 03:29:41,294 - INFO - Failed to recognize: BMW M5 Competition vs Nissan GT-R Drag Race-converted.mp3
+2025-08-12 03:29:51,481 - INFO - Success: Boostee - Let Me Love-converted.mp3 recognized as Boostee - Let Me Love
+2025-08-12 03:30:04,475 - INFO - Success: Bruno Mars - Just the way you are (2)-converted.mp3 recognized as Cody Simpson - On My Mind
+2025-08-12 03:30:16,061 - INFO - Success: Bruno mars - Just the way you are-converted.mp3 recognized as Bruno Mars - Just the Way You Are (feat. Lupe Fiasco) [2010 Remix]
+2025-08-12 03:30:27,066 - INFO - Success: Bruno Mars - talking to the moon-converted.mp3 recognized as Bruno Mars - Talking to the Moon (Acoustic Piano Version)
+2025-08-12 03:30:37,471 - INFO - Success: Bruno Mars - That’s What I Like [Official Music Vi-converted.mp3 recognized as Bruno Mars - That's What I Like
+2025-08-12 03:30:48,510 - INFO - Success: Bruno Mars - The Lazy Song (Official Music Video)-converted.mp3 recognized as Bruno Mars - The Lazy Song
+2025-08-12 03:31:05,698 - INFO - Skipped existing file: C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\result\Bruno Mars\Bruno Mars - The Lazy Song.mp3
+2025-08-12 03:31:20,089 - INFO - Success: Bruno Mars ft Emminem - Lighters-converted.mp3 recognized as Bad Meets Evil - Lighters
+2025-08-12 03:31:33,042 - INFO - Success: Bruno Mars, Anderson Paak, Silk Sonic - Leave the-converted.mp3 recognized as Bruno Mars - Leave The Door Open
+2025-08-12 03:31:45,198 - INFO - Failed to recognize: Burna Boy - 23 [Official Music Video]-converted.mp3
+2025-08-12 03:31:55,817 - INFO - Success: Burna Boy - Anybody [Official Music Video]-converted.mp3 recognized as Burna Boy - Anybody
+2025-08-12 03:32:09,926 - INFO - Success: Burna Boy - Bank On It [Official Audio]-converted.mp3 recognized as Burna Boy - Bank On It
+2025-08-12 03:32:21,378 - INFO - Success: Burna Boy - Check and Balance [Official Video]-converted.mp3 recognized as Burna Boy - Check and Balance
+2025-08-12 03:32:32,064 - INFO - Success: Burna Boy - City Boys [Official Music Video]-converted.mp3 recognized as Burna Boy - City Boys
+2025-08-12 03:32:43,375 - INFO - Success: Burna Boy - Common Person [Official Music Video]-converted.mp3 recognized as Burna Boy - Common Person
+2025-08-12 03:32:55,867 - INFO - Success: Burna Boy - Dangote [Official Music Video]-converted.mp3 recognized as Burna Boy - Dangote
+2025-08-12 03:33:07,391 - INFO - Success: Burna Boy - For My Hand feat Ed Sheeran [Official-converted.mp3 recognized as Burna Boy - For My Hand (feat. Ed Sheeran)
+2025-08-12 03:33:17,160 - INFO - Success: Burna Boy - Gbona [Official Music Video]-converted.mp3 recognized as Burna Boy - Gbona
+2025-08-12 03:33:27,223 - INFO - Success: Burna Boy - Gum Body (Feat Jorja Smith) [Official-converted.mp3 recognized as Burna Boy - Gum Body (feat. Jorja Smith)
+2025-08-12 03:33:40,788 - INFO - Success: Burna Boy - It's Plenty [Official Music Video]-1-converted.mp3 recognized as Burna Boy - It's Plenty
+2025-08-12 03:33:51,206 - INFO - Skipped existing file: C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\result\Burna Boy\Burna Boy - It's Plenty.mp3
+2025-08-12 03:33:58,812 - INFO - Success: Burna Boy - Kilometre [Official Music Video]-converted.mp3 recognized as Burna Boy - Kilometre
+2025-08-12 03:34:07,824 - INFO - Success: Burna Boy - Last Last [Official Music Video]-1-converted.mp3 recognized as Burna Boy - Last Last
+2025-08-12 03:34:16,573 - INFO - Skipped existing file: C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\result\Burna Boy\Burna Boy - Last Last.mp3
+2025-08-12 03:34:29,727 - INFO - Success: Burna Boy - Like To Party (OFFICIAL VIDEO)-converted.mp3 recognized as Burna Boy - Like to Party
+2025-08-12 03:34:39,188 - INFO - Failed to recognize: Burna Boy - On The Low [Official Music Video]-converted.mp3
+2025-08-12 03:34:49,085 - INFO - Success: Burna Boy - Onyeka [Official Music Video]-converted.mp3 recognized as Burna Boy - Onyeka (Baby)
+2025-08-12 03:34:59,941 - INFO - Success: Burna Boy - Pree Me (Official Music Video)-converted.mp3 recognized as Burna Boy - Pree Me
+2025-08-12 03:35:10,380 - INFO - Success: Burna Boy - Pull Up [Official Music Video]-converted.mp3 recognized as Burna Boy - Pull Up
+2025-08-12 03:35:21,796 - INFO - Success: Burna Boy - Rock Your Body-converted.mp3 recognized as Burna Boy - Rock Your Body
+2025-08-12 03:35:32,926 - INFO - Success: Burna Boy - Rollercoaster (feat J Balvin) [Officia-converted.mp3 recognized as Real Sounds - City Sunset
+2025-08-12 03:35:47,769 - INFO - Success: Burna Boy - Run My Race [Official Video]-converted.mp3 recognized as Burna Boy - Tonight
+2025-08-12 03:35:58,743 - INFO - Success: Burna Boy - Secret (feat Jeremih & Serani) [Offici-converted.mp3 recognized as Burna Boy - Secret (feat. Serani)
+2025-08-12 03:36:10,564 - INFO - Skipped existing file: C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\result\Burna Boy\Burna Boy - Tonight.mp3
+2025-08-12 03:36:18,997 - INFO - Success: Burna Boy - Vanilla [Official Music Video]-converted.mp3 recognized as Burna Boy - Vanilla
+2025-08-12 03:36:31,806 - INFO - Success: Burna Boy - Way Too Big [Official Music Video]-converted.mp3 recognized as Burna Boy - Way Too Big
+2025-08-12 03:36:45,649 - INFO - Success: BURNA BOY - YAWA DEY (OFFICIAL VIDEO)-converted.mp3 recognized as Burna Boy - #Yawadey
+2025-08-12 03:36:58,363 - INFO - Success: Burna Boy - Ye [Official Music Video]-1-converted.mp3 recognized as Burna Boy - Ye
+2025-08-12 03:37:08,815 - INFO - Skipped existing file: C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\result\Burna Boy\Burna Boy - Ye.mp3
+2025-08-12 03:37:18,827 - INFO - Success: Burna Boy - _Collateral Damage_ Live Session  Vevo-converted.mp3 recognized as Burna Boy - Collateral Damage
+2025-08-12 03:37:30,681 - INFO - Success: Burna Boy ft Dbanj - Won Da Mo FINAL GRADE-converted.mp3 recognized as FlashDancers - Chorando Se Foi (Extended Mix)
+2025-08-12 03:37:43,115 - INFO - Success: Burnaboy - Don Gorgon [Official Video]-converted.mp3 recognized as Burna Boy - Don Gorgon
+2025-08-12 03:37:53,953 - INFO - Success: Burnaboy - Duro Ni Be [Official Video] ft Phyno-converted.mp3 recognized as Bunra Boy feat. Phyno - Duro Ni Be
+2025-08-12 03:38:05,402 - INFO - Success: Burnaboy - Soke [Official Video]-converted.mp3 recognized as Burna Boy - Soke
+2025-08-12 03:38:16,275 - INFO - Success: BURNABOY FT 2FACE & TIMAYA - ABEG ABEG ABEG REMIX-converted.mp3 recognized as Burna Boy - Abeg Abeg (Remix) [feat. Tuface & Timaya]
+2025-08-12 03:38:26,960 - INFO - Success: Calcum Scott - You are the reason-converted.mp3 recognized as Calum Scott - You Are The Reason
+2025-08-12 03:38:36,554 - INFO - Success: Came\u0301lia Jordana - Mon roi (Clip officiel)-converted.mp3 recognized as Camélia Jordana - Mon roi (facile x fragile +)
+2025-08-12 03:38:45,956 - INFO - Success: Camila cabello & Stromae - Mon amour-converted.mp3 recognized as Stromae - Mon amour
+2025-08-12 03:38:56,425 - INFO - Failed to recognize: Camila cabello - Bam bam-converted.mp3
+2025-08-12 03:39:10,347 - INFO - Success: Camila_Cabello_-_Bam_Bam_(Official_Music_Video)_ft._Ed_Sheeran(360p)-converted.mp3 recognized as Camila Cabello - Bam Bam
+2025-08-12 03:39:21,593 - INFO - Success: Canardo « M'en Aller » feat Tal (Clip officiel)-converted.mp3 recognized as Canardo - M'en aller (feat. TAL)
+2025-08-12 03:39:32,242 - INFO - Success: Carly Rae Jepsen I really like you-converted.mp3 recognized as Carly Rae Jepsen - I Really Like You
+2025-08-12 03:39:44,894 - INFO - Success: Carpenters - Close to you-converted.mp3 recognized as Hit Crew Big Band - Close to You
+2025-08-12 03:39:57,719 - INFO - Failed to recognize: Castle on the hill-converted.mp3
+2025-08-12 03:40:12,203 - INFO - Success: Castle_On_The_Hill_-_Ed_Sheeran_(Lyrics)_(1080p)-converted.mp3 recognized as Ed Sheeran - Castle on the Hill
+2025-08-12 03:40:22,425 - INFO - Success: Ceis - Doudou (Official Music Video)-converted.mp3 recognized as Ceis - Doudou
+2025-08-12 03:40:33,871 - INFO - Success: Celine Dion - D'amour Ou D'amitie\u0301-converted.mp3 recognized as Céline Dion - D'amour ou d'amitié
+2025-08-12 03:40:46,179 - INFO - Success: Celine Dion - Je ne vous oublie pas-converted.mp3 recognized as Céline Dion - Je ne vous oublie pas
+2025-08-12 03:40:58,432 - INFO - Success: Ce\u0301line Dion - A New Day Has Come (Official HD Vide-converted.mp3 recognized as Céline Dion - A New Day Has Come (Radio Remix)
+2025-08-12 03:41:20,029 - INFO - Success: Ce\u0301line Dion - It's All Coming Back to Me Now (Offi-converted.mp3 recognized as Céline Dion - It's All Coming Back To Me Now
+2025-08-12 03:41:33,499 - INFO - Success: Ce\u0301line Dion - Think Twice (Official Remastered HD-converted.mp3 recognized as Céline Dion - Think Twice
+2025-08-12 03:41:40,896 - INFO - Success: Charles Aznavour - Hier encore (Audio Officiel)-converted.mp3 recognized as Charles Aznavour - Hier encore
+2025-08-12 03:41:51,219 - INFO - Success: Charlie Puth - How Long (LyricsVietsub)-converted.mp3 recognized as Charlie Puth - How Long
+2025-08-12 03:42:00,694 - INFO - Failed to recognize: Charlie Puth - Light Switch [Official Music Video]-converted.mp3
+2025-08-12 03:42:10,916 - INFO - Success: Charlie Puth - Marvin Gaye ft Meghan Trainor [Offi-converted.mp3 recognized as Charlie Puth - Marvin Gaye (feat. Meghan Trainor)
+2025-08-12 03:42:20,030 - INFO - Success: Charlotte Lawrence, Nina Nesbitt, Sasha Sloan - Ps-converted.mp3 recognized as Charlotte Lawrence - Psychopath - Recorded at Spotify Studios NYC
+2025-08-12 03:42:32,675 - INFO - Success: Chicago Youre The Inspiration Lyrics-converted.mp3 recognized as Chicago - You're the Inspiration
+2025-08-12 03:42:45,258 - INFO - Success: Childish Gambino - This Is America (Official Video-converted.mp3 recognized as $'Edout - Dis Is Da Wasteland
+2025-08-12 03:42:54,729 - INFO - Success: Cian-Ducrot-I-ll-Be-Waiting-Official-Lyr_12-converted.mp3 recognized as Cian Ducrot - I'll Be Waiting
+2025-08-12 03:43:05,595 - INFO - Success: CKay -  nwayi [Official Music Video]-converted.mp3 recognized as CKay - nwayi
+2025-08-12 03:43:16,467 - INFO - Success: CKay - Emiliana [Official Music Video]-converted.mp3 recognized as CKay - Emiliana
+2025-08-12 03:43:26,137 - INFO - Success: CKay - Love Nwantiti (ft ElGrandeToto) [North Afri-converted.mp3 recognized as CKay - love nwantiti (ah ah ah)
+2025-08-12 03:43:37,966 - INFO - Failed to recognize: Claude Franc\u0327ois _Le te\u0301le\u0301phone pleure_  Archive INA-converted.mp3
+2025-08-12 03:43:50,478 - INFO - Success: Claude Franc\u0327ois, Fre\u0301de\u0301rique - Le te\u0301le\u0301phone pleure-converted.mp3 recognized as Claude François - Le téléphone pleure
+2025-08-12 03:44:00,741 - INFO - Success: Clean Bandit - Symphony (Lyrics) feat. Zara Larsson - YouTube-converted.mp3 recognized as Clean Bandit - Symphony
+2025-08-12 03:44:12,309 - INFO - Skipped existing file: C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\result\Clean Bandit\Clean Bandit - Symphony.mp3
+2025-08-12 03:44:27,750 - INFO - Success: Close To You - Jacob Collier-converted.mp3 recognized as Jacob Collier - Close To You
+2025-08-12 03:44:43,720 - INFO - Success: Coldplay - Adventure Of A Lifetime (Official Video-converted.mp3 recognized as Danger - Part 4: Tikals Erwachen, Teil 6
+2025-08-12 03:44:57,781 - INFO - Success: Coldplay X Selena Gomez - Let Somebody Go (Official Video)-converted.mp3 recognized as Coldplay - Let Somebody Go
+2025-08-12 03:45:12,355 - INFO - Failed to recognize: Collectifs cieux ouverts - Abba Père-converted.mp3
+2025-08-12 03:45:34,441 - INFO - Success: Comment sortir des conflits et mieux vivre nos rel-1-converted.mp3 recognized as Ed Roth - Stolen Moments
+2025-08-12 03:45:54,003 - INFO - Skipped existing file: C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\result\Ed Roth\Ed Roth - Stolen Moments.mp3
+2025-08-12 03:46:04,496 - INFO - Success: Céline_Dion_-_Love_Again_(from_the_Motion_Picture_Soundtrack)_(Official_Lyric_Video)(360p)-converted.mp3 recognized as Céline Dion - Love Again
+2025-08-12 03:46:16,009 - INFO - Success: d4vd - Here With Me [Official Music Video]-converted.mp3 recognized as d4vd - Here With Me
+2025-08-12 03:46:24,367 - INFO - Success: d4vd - Leave Her (Official Lyric Video)-converted.mp3 recognized as d4vd - Leave Her
+2025-08-12 03:46:31,473 - INFO - Success: d4vd - Romantic Homicide-converted.mp3 recognized as d4vd - Romantic Homicide
+2025-08-12 03:46:40,216 - INFO - Success: d4vd - WORTHLESS [Official Music Video]-converted.mp3 recognized as d4vd - WORTHLESS
+2025-08-12 03:46:46,069 - INFO - Success: d4vd - “Remember Me (Intro)” (from Arcane Season 2) [Official Visualizer] (1080p_24fps_H264-128kbit_AAC)-converted.mp3 recognized as d4vd - Remember Me (Intro)(from the series Arcane League of Legends)
+2025-08-12 03:46:50,825 - INFO - Skipped existing file: C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\result\d4vd\d4vd - Remember Me (Intro)(from the series Arcane League of Legends).mp3
+2025-08-12 03:46:57,814 - INFO - Success: d4vd - “Remember Me” (from Arcane Season 2) [Official Visualizer] (1080p_24fps_H264-128kbit_AAC)-converted.mp3 recognized as d4vd - Remember Me (from the series Arcane League of Legends)
+2025-08-12 03:47:04,334 - INFO - Skipped existing file: C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\result\d4vd\d4vd - Remember Me (from the series Arcane League of Legends).mp3
+2025-08-12 03:47:16,557 - INFO - Success: Daddy Yankee - Gasolina (Video Oficial)-converted.mp3 recognized as Mklatino - Gasolina
+2025-08-12 03:47:28,768 - INFO - Success: Damso - 60 anne\u0301es-converted.mp3 recognized as Damso - 60 années
+2025-08-12 03:47:44,675 - INFO - Success: DAMSO - DEUX TOILES DE MER ( LYRICS )-converted.mp3 recognized as Damso - DEUX TOILES DE MER
+2025-08-12 03:47:54,780 - INFO - Success: Damso - Julien ( parole  lyrics)-converted.mp3 recognized as Damso - Julien
+2025-08-12 03:48:03,093 - INFO - Success: Damso - LIFE LIFE (LYRICS)-converted.mp3 recognized as Damso - LIFE LIFE
+2025-08-12 03:48:10,134 - INFO - Success: DAMSO - SILENCE ft Ange\u0300le [CLIP AMV]-1-converted.mp3 recognized as Damso - Silence
+2025-08-12 03:48:15,965 - INFO - Skipped existing file: C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\result\Damso\Damso - Silence.mp3
+2025-08-12 03:48:25,343 - INFO - Success: Damso - \u0394 Dieu ne ment jamais-converted.mp3 recognized as Damso - \u0394. Dieu ne ment jamais
+2025-08-12 03:48:34,109 - INFO - Skipped existing file: C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\result\Damso\Damso - 60 années.mp3
+2025-08-12 03:48:45,254 - INFO - Success: dance monkey-converted.mp3 recognized as Facundo Ruiz - Dj Traaxx
+2025-08-12 03:48:56,364 - INFO - Success: Daniel Caesar - Always (Official Audio)-converted.mp3 recognized as Daniel Caesar - Always
+2025-08-12 03:49:05,945 - INFO - Success: Daniel Caesar - Superpowers (Lyrics)-converted.mp3 recognized as Daniel Caesar - Superpowers
+2025-08-12 03:49:21,584 - INFO - Skipped existing file: C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\result\Daniel Caesar\Daniel Caesar - Blessed.mp3
+2025-08-12 03:49:36,682 - INFO - Success: Daniel Caesar Performs _Get You_  Here For The Mus-converted.mp3 recognized as James Delight - Get You
+2025-08-12 03:49:47,085 - INFO - Success: Dans l'univers Nekfeu (lyrics)-converted.mp3 recognized as Nekfeu - Dans l'univers
+2025-08-12 03:49:58,205 - INFO - Success: dans un autre monde-converted.mp3 recognized as Aurora;Idina Menzel - Into the Unknown
+2025-08-12 03:50:09,372 - INFO - Success: Datsik & Virtual Riot - Nasty-converted.mp3 recognized as Datsik - Nasty
+2025-08-12 03:50:21,332 - INFO - Success: Dave - Location (ft Burna Boy)-1-converted.mp3 recognized as Dave - Location
+2025-08-12 03:50:31,805 - INFO - Skipped existing file: C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\result\Dave\Dave - Location.mp3
+2025-08-12 03:50:44,598 - INFO - Success: David Guetta - Titanium (feat. Sia) (Lyrics)-converted.mp3 recognized as David Guetta - Titanium (feat. Sia)
+2025-08-12 03:50:55,051 - INFO - Success: Davido - FEEL (Official Video)-converted.mp3 recognized as Davido - FEEL
+2025-08-12 03:51:04,204 - INFO - Success: Davido - UNAVAILABLE (Official Video) ft Musa Keys-converted.mp3 recognized as Davido - UNAVAILABLE (feat. Musa Keys)
+2025-08-12 03:51:13,573 - INFO - Success: Dj Sebb feat Junior, PLL, Black T  - Roulman ( Cli-converted.mp3 recognized as Dj Sebb - Roulman
+2025-08-12 03:51:22,830 - INFO - Success: Djerv - “Rebel Heart” (from Arcane Season 2) [Official Visualizer] (1080p_24fps_H264-128kbit_AAC)-converted.mp3 recognized as Djerv/Arcane/League of Legends - Rebel Heart (from the series Arcane League of Legends)
+2025-08-12 03:51:29,926 - INFO - Skipped existing file: C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\result\Djerv/Arcane/League of Legends\DjervArcaneLeague of Legends - Rebel Heart (from the series Arcane League of Legends).mp3
+2025-08-12 03:51:42,026 - INFO - Success: Doja Cat - Say So (Lyrics)-converted.mp3 recognized as Doja Cat - Say So (China Remix)
+2025-08-12 03:51:52,655 - INFO - Success: Don't Let Me Down- The Chainsmokers ft. Daya Lyrics - YouTube-converted.mp3 recognized as The Chainsmokers - Don't Let Me Down
+2025-08-12 03:52:03,638 - INFO - Success: Don't say I'm sorry-converted.mp3 recognized as Keenan Te - Forgot About Us
+2025-08-12 03:52:17,157 - INFO - Success: Drake - Fair Trade (Audio) ft Travis Scott-converted.mp3 recognized as Drake - Fair Trade
+2025-08-12 03:52:30,711 - INFO - Failed to recognize: Drake - First Person Shooter ft J Cole-converted.mp3
+2025-08-12 03:52:40,595 - INFO - Success: Dua lipa & Elton John - Cold heart-converted.mp3 recognized as Elton John - Cold Heart (PNAU Remix)
+2025-08-12 03:52:51,792 - INFO - Success: Dua_Lipa_-_Homesick_[Album_Visual]_(Official_Audio)(480p)-converted.mp3 recognized as Dua Lipa - Homesick
+2025-08-12 03:53:03,900 - INFO - Success: Désolé-converted.mp3 recognized as Ajota Solis - Montana
+2025-08-12 03:53:16,582 - INFO - Failed to recognize: Eason Chan - “\u8fd9\u6837\u5f88\u597d (Isha’s Song)” (from Arcane Season 2) [Official Music Video] (1080p_25fps_H264-128kbit_AAC)-converted.mp3
+2025-08-12 03:53:27,777 - INFO - Failed to recognize: Eason Chan - “\u8fd9\u6837\u5f88\u597d (Isha’s Song)” (from Arcane Season 2) [Official Music Video] (128kbit_AAC)-converted.mp3
+2025-08-12 03:53:37,632 - INFO - Success: Easy on me - Justin Bieber ( Ai cover ) lyrics [Ad-converted.mp3 recognized as Will Gittens - Easy On Me
+2025-08-12 03:53:40,917 - INFO - Failed to recognize: Ed Sheeran Proves Hard Work Pays Off-converted.mp3
+2025-08-12 03:53:51,329 - INFO - Success: Ed_Sheeran_-_Eyes_Closed_[Official_Video](480p)-converted.mp3 recognized as Ed Sheeran - Eyes Closed
+2025-08-12 03:54:03,137 - INFO - Success: Kaskade  Phoenix ft Sasha Sloan  Automatic-converted.mp3 recognized as Kaskade - Phoenix (feat. Sasha Sloan)
+2025-08-12 03:54:15,712 - INFO - Success: Lewis capaldi - Before you go-converted.mp3 recognized as Dogbite - OUTRO/DUST REPRISE
+2025-08-12 03:54:23,238 - INFO - Success: Lizzy McAlpine - hate to be lame feat FINNEAS (off-converted.mp3 recognized as Lizzy McAlpine - hate to be lame
+2025-08-12 03:54:29,174 - INFO - Success: Lizzy McAlpine - nobody likes a secret (Official A-converted.mp3 recognized as Lizzy McAlpine - nobody likes a secret
+2025-08-12 03:54:45,066 - INFO - Success: Michael Jackson - You Are Not Alone (Official Vide-converted.mp3 recognized as Michael Jackson - You Are Not Alone
+2025-08-12 03:54:45,337 - INFO - Failed to recognize: MuteSwitchDetection-converted.mp3
+2025-08-12 03:54:56,569 - INFO - Success: Nekfeu - Plume-converted.mp3 recognized as Nekfeu - Plume
+2025-08-12 03:55:06,343 - INFO - Success: Post Malone - Cooped Up (Official Music Video) ft-converted.mp3 recognized as Post Malone - Cooped Up
+2025-08-12 03:55:17,285 - INFO - Success: Post Malone, The Weeknd - One Right Now (Official-converted.mp3 recognized as Post Malone - One Right Now
+2025-08-12 03:55:36,241 - INFO - Success: Ruth B - Superficial Love (lyrics).mp3 recognized as Ruth B. - Superficial Love (Single Version)
+2025-08-12 03:55:57,551 - INFO - Success: Sam Smith - I'm Not The Only One (lyrics).mp3 recognized as Sam Smith - I'm Not the Only One
+2025-08-12 03:56:06,269 - INFO - Success: Sasha Alex Sloan - at least i look cool (Official-converted.mp3 recognized as Sasha Sloan - at least i look cool
+2025-08-12 03:56:17,234 - INFO - Failed to recognize: Sasha Alex Sloan - when was it over_ (Live) ft Sam-converted.mp3
+2025-08-12 03:56:28,627 - INFO - Skipped existing file: C:\Users\miant\OneDrive\Documents\DEV\metadataMaker\result\Coldplay\Coldplay - Let Somebody Go.mp3
+2025-08-12 03:56:51,963 - INFO - Failed to recognize: Sonny Rollins - SonnyMoon For Two-converted.mp3
+2025-08-12 03:57:02,590 - INFO - Success: Spyro ft Tiwa Savage - Who is your Guy_ Remix (Off-converted.mp3 recognized as Spyro - Who Is Your Guy?
+2025-08-12 03:57:16,081 - INFO - Success: Tanjona Randrianarivelo - Ahoana marina moa--converted.mp3 recognized as Carson Taylor - honest & frank
+2025-08-12 03:57:39,417 - INFO - Success: The Beatles - Hey Jude-converted.mp3 recognized as The Beatles - Hey Jude
+2025-08-12 03:57:50,536 - INFO - Success: To love you-converted.mp3 recognized as Sing2Piano - Lose You To Love Me (Originally Performed by Selena Gomez) (Piano Karaoke Version)
+2025-08-12 03:58:02,025 - INFO - Success: Zhavia - Say something-converted.mp3 recognized as Zhavia - Say Something
+2025-08-12 03:58:08,115 - INFO - Success: [ \uff21\uff2d\uff36 ] Hellsing  Ghostemane - Nihil-converted.mp3 recognized as Ghostemane - Nihil
+2025-08-12 03:58:15,652 - INFO - Failed to recognize: [FREE] Summer Walker x Chase Shakur Interlude Beat-converted.mp3
+2025-08-12 03:58:22,090 - INFO - Success: \u300ccoffee - beabadoobee (lyrics)\u2615\ufe0f\u300d-converted.mp3 recognized as beabadoobee - Coffee
